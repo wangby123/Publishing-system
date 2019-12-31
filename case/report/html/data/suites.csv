@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Dec 31 16:26:27 CST 2019","Tue Dec 31 16:26:37 CST 2019","9549","","test_login","Test_Login","","","test_01","输入正确的账号和密码，登录成功"
+"passed","Tue Dec 31 16:26:40 CST 2019","Tue Dec 31 16:26:43 CST 2019","3416","","test_login","Test_Login","","","test_02","输入正确的用户名和错误的密码，登陆失败"
